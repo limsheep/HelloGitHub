@@ -33,11 +33,15 @@ public class HelloWorld {
 //             ) {
 //            System.out.println(c);
 //        }
-        String sh = "WARN";
+        String sh = "ERROR";
         StringBuilder rev = new StringBuilder(sh).reverse();
         System.out.println(rev);
+
+        String lower = sh.toLowerCase();
+        String upper = sh.toUpperCase();
+        System.out.println(upper);
         
-        int a = 10;
+
 
     }
 }
