@@ -36,6 +36,8 @@ public class HelloWorld {
         String sh = "WARN";
         StringBuilder rev = new StringBuilder(sh).reverse();
         System.out.println(rev);
+        
+        int a = 10;
 
     }
 }
