@@ -33,7 +33,7 @@ public class HelloWorld {
 //             ) {
 //            System.out.println(c);
 //        }
-        String sh = "RORRE";
+        String sh = "WARN";
         StringBuilder rev = new StringBuilder(sh).reverse();
         System.out.println(rev);
 
